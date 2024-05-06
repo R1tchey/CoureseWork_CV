@@ -30,7 +30,7 @@ This project is a coursework assignment focused on creating panoramic images fro
    Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/R1tchey/CoureseWork_CV.git
+   git clone git@github.com:R1tchey/CoureseWork_CV.git
    ```
 
 2. Install Dependencies:
